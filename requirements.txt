@@ -2,6 +2,5 @@ aiohttp
 python-decouple
 psutil
 speedtest-cli
-pyaesni
 https://github.com/1Danish-00/Telethon/archive/master.zip
 html_telegraph_poster
